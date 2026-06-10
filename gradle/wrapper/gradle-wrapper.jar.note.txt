@@ -1,0 +1,3 @@
+Le fichier gradle-wrapper.jar doit être téléchargé manuellement.
+Exécutez : gradle wrapper --gradle-version=8.4
+OU laissez Android Studio le générer automatiquement à l'import du projet.
